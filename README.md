@@ -24,7 +24,7 @@ La página incluye:
 
 ## 📸 Capturas
 
-| Vista Principal | Carrusel | Catálogo |
+| Vista Principal | Platos Típicos | Catálogo |
 |----------------|----------|----------|
 | ![Principal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDvtj6I3WvPtJvIPLhxnbeXzE2faqI4PXJ4Cu1_IJCMGC8ycSth43iy621&s=10) | ![Carrusel](https://easyways.cl/storage/20191010140047cazuela-de-vacuno.jpg) | ![Catálogo](https://carnesveronica.cl/images/partes-vacuno.jpg) |
 
