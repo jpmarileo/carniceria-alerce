@@ -26,7 +26,7 @@ La página incluye:
 
 | Vista Principal | Carrusel | Catálogo |
 |----------------|----------|----------|
-| ![Principal](https://picsum.photos/id/1015/600/400) | ![Carrusel](https://picsum.photos/id/201/600/400) | ![Catálogo](https://picsum.photos/id/237/600/400) |
+| ![Principal](https://picsum.photos/id/1015/600/400) | ![Carrusel](https://picsum.photos/id/201/600/400) | ![Catálogo](https://carnesveronica.cl/images/partes-vacuno.jpg) |
 
 ---
 
